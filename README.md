@@ -1,1 +1,1 @@
-# Millenia-Store-
+# Millenia-Store list of releases
